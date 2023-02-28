@@ -17,7 +17,7 @@ window.onload = function() {
 
 function loadCat()
 {
-    const api_key = "live_X9TjmS742Z2G1Q5U0H6xV5wDUpQvjOEp7PwIRLCZB3GkKeaWu2g3YctAYx0Z71QW";
+    const api_key = "api_key";
 
     let breed_id = "";
 
